@@ -29,12 +29,12 @@ body {
 }
 
 /* Palindrome */
-.wrapper {
+/* .wrapper {
 }
 .header {
 }
 .main {
-}
+} */
 .palindrome {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -115,5 +115,12 @@ body {
   vertical-align: middle;
   text-align: center;
 }
-.footer {
+
+.palindrome__definition {
+  font-size: 1.4rem;
+  margin-top: 10px;
+  text-align: center;
 }
+
+/* .footer {
+} */
